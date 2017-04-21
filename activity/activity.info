@@ -1,0 +1,7 @@
+[Activity]
+name = Simulate
+bundle_id = org.sugarlabs.Simulate
+exec = sugar-activity TestActivity.TestActivity
+icon = activity-generic
+activity_version = 2
+repository = https://github.com/AbrahmAB/simulate_sugargame.git
